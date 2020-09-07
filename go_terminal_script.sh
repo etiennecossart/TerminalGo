@@ -1,4 +1,4 @@
-wanna_play()
+wanna_play() #test
 {
 	echo "Type a response...(y/n)"
 	echo ""
